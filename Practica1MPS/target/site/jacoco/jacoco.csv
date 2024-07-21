@@ -1,0 +1,6 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+lab1,es.uma.clubdeportivo,ClubDeportivoAltoRendimiento,0,110,0,12,0,27,0,10,0,4
+lab1,es.uma.clubdeportivo,ClubDeportivo,0,281,0,32,0,66,0,25,0,9
+lab1,es.uma.clubdeportivo,ClubException,3,4,0,0,2,2,1,1,1,1
+lab1,es.uma.clubdeportivo,Grupo,0,182,0,26,0,34,0,25,0,12
+lab1,es.uma,ClubDeportivoMain,68,0,0,0,12,0,2,0,2,0
